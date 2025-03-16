@@ -49,3 +49,11 @@
 .container {
     margin-top: 25px;
 }
+
+.card {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.card-body {
+    background-color: #e6f9ff;
+}
