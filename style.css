@@ -39,7 +39,7 @@
     width: 80%;
 }
 
-#history-images {
+#history-images{
     flex-direction: row;
     display: flex;
 }
@@ -48,6 +48,17 @@
     display: block;
     width: 50%;
     height: 250px;
+}
+
+.visit-images {
+    display: block;
+    width: 20%;
+}
+
+#visit-images {
+    flex-direction: row;
+    display: flex;
+    margin-bottom: 20px;
 }
 
 .map {
